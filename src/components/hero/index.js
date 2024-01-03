@@ -13,7 +13,7 @@ export default function Hero() {
            MealFixr
         </h1>
         <h3 className="font-semibold text-2xl lg:text-3xl pb-20">
-        Introducing Kenya's ONLY Multi-Modal, Multilingual AI Meal Planner
+        Introducing Kenya&apos;s ONLY Multi-Modal, Multilingual AI Meal Planner
         </h3>
 
         <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">

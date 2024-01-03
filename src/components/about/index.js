@@ -8,7 +8,7 @@ const About = () => {
         <div className=" sm:text-lg text-white">
             <h2 className="mb-4 text-4xl tracking-tight font-bold text-white">About MealFixr</h2>
             <p className="mb-4 text-lg font-light text-white lg:text-xl py-5">
-            Meal Fixr is an AI-powered meal planning app that simplifies the process of creating healthy meal plans. The web app can consider a user's dietary preferences, nutritional goals, and available ingredients to generate optimised meal plans. It can also offer recipe suggestions, track calorie intake, and provide grocery lists for efficient meal preparation.
+            Meal Fixr is an AI-powered meal planning app that simplifies the process of creating healthy meal plans. The web app can consider a user&apos;s dietary preferences, nutritional goals, and available ingredients to generate optimised meal plans. It can also offer recipe suggestions, track calorie intake, and provide grocery lists for efficient meal preparation.
             </p>
 
             <div className="mt-5 space-y-4 sm:space-y-0 sm:space-x-4">
